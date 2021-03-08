@@ -1,2 +1,5 @@
 script.sh
-flask_venv
+blog_venv
+__pycache__
+./flask_blog/__pycache__
+.env
